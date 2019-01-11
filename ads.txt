@@ -1,0 +1,10 @@
+action.adzcore.com 
+analytics.app-adforce.jp 
+api.smartnews-ads.com 
+app.adjust.io 
+conf.smartnews-ads.com 
+e.crashlytics.com 
+graph.facebook.com 
+setting.adzcore.com 
+us-analytics-api.gree-apps.net 
+us-marketing-api.gree-apps.net 
